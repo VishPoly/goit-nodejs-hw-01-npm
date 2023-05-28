@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hvoarang/goit-nodejs-hw-01-npm.git"
+    "url": "git+https://github.com/VishPoly/goit-nodejs-hw-01-npm.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hvoarang/goit-nodejs-hw-01-npm/issues"
+    "url": "https://github.com/VishPoly/goit-nodejs-hw-01-npm/issues"
   },
-  "homepage": "https://github.com/hvoarang/goit-nodejs-hw-01-npm#readme",
+  "homepage": "https://github.com/VishPoly/goit-nodejs-hw-01-npm#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
   },
